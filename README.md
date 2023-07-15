@@ -37,7 +37,7 @@ The definitions of important data attributes.
 
               MarketCap = total value in dollars per trading day.
 
-# The process
+# The process and applied methology
 Steps will include:
 
 Step 0: Design, organization, and initial setup
